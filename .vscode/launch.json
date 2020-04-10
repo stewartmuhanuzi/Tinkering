@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AdditionQuiz<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "AdditionQuiz",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AnalyzeNumbers<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "AnalyzeNumbers",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CelsiusToFahrenheit<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "CelsiusToFahrenheit",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Checker<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "Checker",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Checking<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "Checking",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ChineseZodiac<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "ChineseZodiac",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ComputeAngles<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "ComputeAngles",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ComputeArea<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "ComputeArea",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ComputeAverage<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "ComputeAverage",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ComputeExpression<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "ComputeExpression",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ComputeLoan<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "ComputeLoan",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exponential<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "Exponential",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstPrinciples<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "FirstPrinciples",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FormatDemo<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "FormatDemo",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GuessBirthday<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "GuessBirthday",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GuessNumber<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "GuessNumber",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HexDigit2Dec<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "HexDigit2Dec",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lottery<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "Lottery",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LotteryUsingStrings<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "LotteryUsingStrings",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MultiplicationTable<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OrderTwoCities<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "OrderTwoCities",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PayrollApplication<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "PayrollApplication",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RepeatAdditiionQuiz<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "RepeatAdditiionQuiz",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SalesTax<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "SalesTax",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SentinelValue<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "SentinelValue",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ShowCurrentTime<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "ShowCurrentTime",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SimpleIf<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "SimpleIf",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubtractionQuizLoop<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "SubtractionQuizLoop",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestConditionals<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "TestConditionals",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestDoWhile<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "TestDoWhile",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Welcome<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WelcomeThreeMessages<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "WelcomeThreeMessages",
+            "projectName": "Learn_Java_eefc7e50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-helloworld<Learn_Java_eefc7e50>",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "Learn_Java_eefc7e50"
+        }
+    ]
+}
